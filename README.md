@@ -48,7 +48,7 @@ student performance prediction/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/kaushalsharma788/student-performance-prediction.git
 ```
 
 Move into the project folder:
@@ -65,7 +65,6 @@ python -m venv venv
 
 Activate it on Windows:
 
-```bash
 venv\Scripts\activate
 ```
 
